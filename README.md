@@ -1,2 +1,2 @@
 # IntellijGIT
-All of InelliJ
+All project of IntelliJ
