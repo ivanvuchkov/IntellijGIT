@@ -1,0 +1,2 @@
+# IntellijGIT
+All of InelliJ
